@@ -10,7 +10,7 @@ This is a basic chat app made using socket.io with a features to chat under diff
 * Socket.io
 
 ## Screenshot
-<img src="ss.JPG" height=700px>
+<img src="ss1.JPG" height=700px>
 
 ## Live Demo
 https://you-chat-app.herokuapp.com/
